@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# Except for directories, .cpp files, and the .gitignore file itself
+!*/
+!*.cpp
+!.gitignore
